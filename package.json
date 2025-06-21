@@ -1,0 +1,26 @@
+{
+  "name": "@eeemarv/io-spi-examples",
+  "version": "0.1.0",
+  "description": "Some examples using the @eeemarv/io-spi native node addon for SPI devices",
+  "keywords": [
+    "SPI",
+    "node",
+    "examples",
+    "@eeemarv/io-spi",
+    "Linux"
+  ],
+  "homepage": "https://github.com/eeemarv/io-spi-examples#readme",
+  "bugs": {
+    "url": "https://github.com/eeemarv/io-spi-examples/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeemarv/io-spi-examples.git"
+  },
+  "license": "MIT",
+  "author": "Maarten Vandekeybus",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "mfrc522",
+  "version": "1.0.0",
+  "description": "MFRC522 example for @eeemarv/io-spi SPI node native addon",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mfrc522",
+    "spi",
+    "Mifare",
+    "example"
+  ],
+  "author": "Maarten Vandekeybus",
+  "license": "MIT",
+  "dependencies": {
+    "@eeemarv/io-spi": "*"
+  },
+  "type": "module"
+}

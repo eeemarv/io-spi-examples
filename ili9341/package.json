@@ -1,0 +1,17 @@
+{
+  "name": "ili9341",
+  "version": "1.0.0",
+  "description": "MFRC522 example for @eeemarv/io-spi SPI node native addon",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ili9341", "spi", "fractal", "display", "example"],
+  "author": "Maarten Vandekeybus",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@eeemarv/io-spi": "^0.2.6",
+    "node-libgpiod": "^0.5.3"
+  }
+}

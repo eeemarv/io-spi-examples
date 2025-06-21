@@ -1,11 +1,11 @@
 # Examples using @eeemarv/io-spi SPI node native addon
 
-[Link to the @eeemarv/io-spi npm package](https://www.npmjs.com/package/@eeemarv/io-spi)
+[Link to the @eeemarv/io-spi npm package](https://www.npmjs.com/package/@eeemarv/io-spi) (Find there also a simple loopback test)
 
 The example node scripts
 
-* [Reading IUDs from Mifare Tags with a MFRC522 module](https://github.com/eeemarv/io-spi-examples/blob/main/mfrc522/README.md)
-* [Render fractals on a display with the ILI9341 controller](https://github.com/eeemarv/io-spi-examples/blob/main/ili9341/README.md)
+* [Reading IUDs from Mifare Tags with a MFRC522 module](https://github.com/eeemarv/io-spi-examples/tree/main/mfrc522#readme)
+* [Render fractals on a display with the ILI9341 controller](https://github.com/eeemarv/io-spi-examples/tree/main/ili9341#readme)
 
 Here are some steps to take before usage:
 

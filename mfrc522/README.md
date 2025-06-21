@@ -17,6 +17,6 @@ node run.js
 # Use the `--help` flag to see all possible options.
 ```
 
-![MFRC522 Test Terminal](https://raw.githubusercontent.com/eeemarv/io-spi-examples/main/mfrc/images/cli_mfrc522.png)
+![MFRC522 Test Terminal](https://raw.githubusercontent.com/eeemarv/io-spi-examples/main/mfrc522/images/cli_mfrc522.png)
 
 If the self test fails (in case of a clone MFRC522), it can be disabled with `--no-self-test`.

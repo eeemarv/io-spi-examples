@@ -2,6 +2,12 @@
 
 [Link to the @eeemarv/io-spi npm package](https://www.npmjs.com/package/@eeemarv/io-spi) (Find there also a simple loopback test)
 
+To install these examples:
+
+```bash
+git clone https://github.com/eeemarv/io-spi-examples.git
+```
+
 The example node scripts
 
 * [Reading IUDs from Mifare Tags with a MFRC522 module](https://github.com/eeemarv/io-spi-examples/tree/main/mfrc522#readme)

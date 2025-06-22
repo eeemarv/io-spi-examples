@@ -17,6 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/eeemarv/io-spi-examples.git"
   },
+  "private": true,
   "license": "MIT",
   "author": "Maarten Vandekeybus",
   "type": "module",
